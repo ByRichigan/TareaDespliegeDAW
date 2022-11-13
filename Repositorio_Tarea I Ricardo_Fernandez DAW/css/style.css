@@ -1,0 +1,51 @@
+.logo{
+  width: 100px;
+  height: auto;
+  margin: 5px;
+  float: left;
+}
+
+.header{
+  background-color: rgb(255, 0, 0);
+  overflow: hidden;
+}
+
+.contenedor1{
+  
+  background-color:rgb(255, 255, 255)
+}
+
+.contenedor2 {
+  margin: 10px;
+  background-color: white;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.subtitle {
+  margin-top: 0;
+  float:left;
+}
+
+menu{
+  float: left;
+}
+
+.menuitem {
+  display: inline-block;
+  margin: 10px;
+}
+
+.menulink {
+  text-decoration: none;
+}
+
+.menulink:hover {
+  color: rgb(4, 0, 255);
+}
+
+.video{
+  margin-left: 15%;
+}
